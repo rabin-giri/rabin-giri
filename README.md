@@ -4,16 +4,7 @@
 ---
 
 🔧 I’m a **Software Engineer** and **Co-founder** at [Paaila Technology](https://www.paailatechnology.com/) (since 2016), where I lead development of intelligent machines and automation systems.
-
-### 👨‍💻 What I Do
-
-- 🤖 **Pari** – Bank service robot  
-- 🛎️ **Ginger** – Hotel hospitality robot  
-- 🚦 Smart Traffic Light Management Systems  
-- 💧 Hydropower Automation (trash collection, depth sensors, dam control)  
-- 🧱 Automatic Brick Machine  
-- 🧭 Robot Navigation  
-- 🏥 COVID-19 Emergency Ventilator  
+  
 
 ---
 
