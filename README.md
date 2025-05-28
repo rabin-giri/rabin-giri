@@ -12,8 +12,6 @@
 
 - 🌐 Website: [About me](https://rabin-giri.github.io/)
 - 📧 Email: *rabin@paailatechnology.com*
-- 💬 “Turning ideas into intelligent machines that make a difference in the real world.”
-
 ---
 
 <p align="center">
