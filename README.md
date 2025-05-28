@@ -11,7 +11,7 @@
 ### 📫 Let’s Connect!
 
 - 🌐 Website: [About me](https://rabin-giri.github.io/)
-- 📧 Email: *rabin@paailatechnology.com*
+- 📧 Email: *rabin@paailatechnology.com, rabin.colab@gmail.com*
 ---
 
 <p align="center">
