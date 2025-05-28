@@ -22,7 +22,6 @@
 - 🇳🇵 Represented **Nepal** at **ABU Robocon 2015 & 2016**
 - 🏆 Won several national robotics awards during my college years
 - 🛠️ Co-founded **Paaila Technology** with 6 friends
-- 🌍 Featured by **CNN**, **BBC**, and **Al Jazeera**
 
 ---
 
