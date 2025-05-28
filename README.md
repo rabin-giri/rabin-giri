@@ -17,24 +17,6 @@
 
 ---
 
-### 🎓 My Journey
-
-- 🇳🇵 Represented **Nepal** at **ABU Robocon 2015 & 2016**
-- 🏆 Won several national robotics awards during my college years
-- 🛠️ Co-founded **Paaila Technology** with 6 friends
-
----
-
-### 💡 Skills & Interests
-
-- Embedded Programming (C/C++, STM32, FreeRTOS)
-- Firmware Development
-- Robotics and Automation
-- IoT & Real-time Applications
-- Full Product Development Cycle
-
----
-
 ### 📫 Let’s Connect!
 
 - 🌐 Website: [About me](https://rabin-giri.github.io/)
